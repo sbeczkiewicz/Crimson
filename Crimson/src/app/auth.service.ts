@@ -3,7 +3,7 @@ import { Router } from '@angular/router';
 // @ts-ignore
 import { User } from './user.model.ts'; // optional
 
-import  auth  from 'firebase/app';
+import { auth } from 'firebase/app';
 import { AngularFireAuth } from '@angular/fire/auth';
 import { AngularFirestore, AngularFirestoreDocument } from '@angular/fire/firestore';
 
