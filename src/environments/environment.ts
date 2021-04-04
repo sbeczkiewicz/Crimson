@@ -5,13 +5,16 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyCLXaUcLfhz2RH8Dz6gESgRfMS0mQYzOhc',
-    authDomain: 'instafire-app.firebaseapp.com',
-    databaseURL: 'https://instafire-app.firebaseio.com',
-    projectId: 'instafire-app',
-    storageBucket: 'instafire-app.appspot.com',
-    messagingSenderId: '349272671197'
+    apiKey: "AIzaSyCHaTmEPRa_a4lRM4qE_GOJ9dnUYgiLq-0",
+    authDomain: "crimson-cdb09.firebaseapp.com",
+    databaseURL: "https://crimson-cdb09-default-rtdb.firebaseio.com",
+    projectId: "crimson-cdb09",
+    storageBucket: "crimson-cdb09.appspot.com",
+    messagingSenderId: "621913714002",
+    appId: "1:621913714002:web:51cd7aca1f7bc30db69e8b",
+    measurementId: "G-X5NSHBBQRN"
   }
+
 };
 
 /*
